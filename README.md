@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a Danish computer science student at UCL, Odense. 
+Currently learning asp.net core and blazor. 
 
 <!--
 **cvHanky/cvHanky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
