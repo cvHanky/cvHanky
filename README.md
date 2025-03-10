@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a Danish computer science student at UCL, Odense. 
-Currently learning asp.net core and blazor. 
+Currently on my 4th semester, doing a deep dive into Automated Testing using GitHub Actions, and Game Development using Unreal Engine!
 
 <!--
 **cvHanky/cvHanky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
