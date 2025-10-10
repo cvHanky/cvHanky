@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am a Danish computer science student at UCL, Odense. 
-Currently on my 4th semester, doing a deep dive into Automated Testing using GitHub Actions, and Game Development using Unreal Engine!
+Currently on my 5th and last semester, completing my internship with Ecreo ApS! 
+Here I mainly work with ASP.NET and Blazor projects, using UmbracoCMS as the core framework. 
 
 <!--
 **cvHanky/cvHanky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
