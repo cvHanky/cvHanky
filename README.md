@@ -1,7 +1,12 @@
 ## Hi there 👋
-I am a Danish computer science student at UCL, Odense. 
-Currently on my 5th and last semester, completing my internship with Ecreo ApS! 
-Here I mainly work with ASP.NET and Blazor projects, using UmbracoCMS as the core framework. 
+
+I am a Danish software developer based in Odense.
+I have a degree in computer science and a bachelor's degree in Chemistry.
+
+My main strengths are logical backend development and web development with .NET technologies, such as ASP.NET MVC or Blazor. 
+On this profile I will mainly be sharing small snippets of things I have worked on, or just ideas that I found interesting enough to be shared.
+
+Currently working on a dynamic searcher for a Blazor application.
 
 <!--
 **cvHanky/cvHanky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
